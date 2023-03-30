@@ -1,0 +1,24 @@
+.box1{
+	border:solid 5px black;
+	clear:both;
+	height:400px;
+	width:400px;
+	position:relative;
+	left:50px;
+	outline: solid 2px red;
+	outline-offset: 10px;
+	box-shadow: 10px 10px 5px rgb(36, 36, 143);
+}
+.img1{
+	float:none;
+height:100%;
+width:100%;
+margin-left:0px;
+position: absolute;
+top:0;
+z-index: -10;
+}
+h1{
+    text-align: center;
+color: rgb(126, 10, 150);
+}
